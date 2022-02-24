@@ -1,0 +1,1063 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and true mercurius: or, Mercurius metricus A true relation in meeter (on the behalf of scepter and miter) comprising sundry of the most sad and bad transactions, occurrences and passages in England, Scotland and Ireland, for the space of twelve years last past. For the true information and reformation of the people. Or, sober sadness, and plain-dealing, in a few plain, sober, and sad country rhimes, concerning these sad and heavy times, conducing to a real, personal and national reformation in three sinful lands. To which is added the authours twelve years extream melancholy, with the vvoful effects thereof in him, and the best remedy which he used for the removal of them all. Also a joyful and thankful commemoration of His Majesties happy return to his three kingdoms. By William Mascal above forty years ago Fellow-Commoner of Clarehal in Cambridge, now a poor deacon according to the canonical ordination of the late most famous orthodoxal Church of England.</title>
+            <author>Mascall, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52160</idno>
+            <idno type="STC">Wing M903C</idno>
+            <idno type="STC">ESTC R216688</idno>
+            <idno type="EEBO-CITATION">99828410</idno>
+            <idno type="PROQUEST">99828410</idno>
+            <idno type="VID">32837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1929:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and true mercurius: or, Mercurius metricus A true relation in meeter (on the behalf of scepter and miter) comprising sundry of the most sad and bad transactions, occurrences and passages in England, Scotland and Ireland, for the space of twelve years last past. For the true information and reformation of the people. Or, sober sadness, and plain-dealing, in a few plain, sober, and sad country rhimes, concerning these sad and heavy times, conducing to a real, personal and national reformation in three sinful lands. To which is added the authours twelve years extream melancholy, with the vvoful effects thereof in him, and the best remedy which he used for the removal of them all. Also a joyful and thankful commemoration of His Majesties happy return to his three kingdoms. By William Mascal above forty years ago Fellow-Commoner of Clarehal in Cambridge, now a poor deacon according to the canonical ordination of the late most famous orthodoxal Church of England.</title>
+                  <author>Mascall, William.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse, with printed notes and comment in outer margins.</note>
+                  <note>With caption title on p. 1 beginning: Vpon the violent death of our late most gracious Soveraingne ..</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32837:1"/>
+            <p>A New and True Mercurius: OR, <hi>MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S METRIC<g ref="char:V">Ʋ</g>S.</hi>
+            </p>
+            <p>A true Relation in Meeter (on the behalf of Scepter and Miter) compriſing ſundry of the moſt ſad and bad Tranſactions, Occurrences and Paſſages in <hi>England, Scotland</hi> and
+<hi>Ireland,</hi> for the ſpace of twelve years laſt paſt.</p>
+            <q>
+               <l>Ita ſubvertere ſeria</l>
+               <l>Regem, Legem, &amp; gregem.</l>
+            </q>
+            <p>For the true information and reformation of the People.</p>
+            <p>OR, Sober Sadneſs, and Plain dealing, in a few plain, ſober, and ſad Country Rhimes, con<g ref="char:EOLhyphen"/>cerning theſe ſad and heavy times, conducing to a real, perſonal and National Reformation in three ſinful Lands.</p>
+            <p>To which is added the Authours Twelve years extream Melancholy, with the woful effects thereof in him, and the beſt remedy which he uſed for the removal of them all.</p>
+            <p>Alſo a joyful and thankful Commemoration of His Majeſties happy return to his Three Kingdoms.</p>
+            <p>By <hi>WILLIAM MASCAL</hi> above forty years ago Fellow-Commo<g ref="char:EOLhyphen"/>ner of <hi>Clarehal</hi> in
+<hi>Cambridge,</hi> now a poor Deacon according to the Canonical Ordination of the late moſt famous Orthodoxal Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author. 1661.</p>
+            <pb facs="tcp:32837:2" rendition="simple:additions"/>
+            <pb facs="tcp:32837:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32837:3"/>
+            <pb facs="tcp:32837:3"/>
+            <p>TO the Right Honorable and true<g ref="char:EOLhyphen"/>ly Noble Lady, and Ancient godly Matron, above Fourſcore years old (whoſe ancient days, the Ancient of days make more ancient yet) Grand-Mother to the Right honorable <hi>Charles Weſt</hi> Lord <hi>de Lawarr</hi> the Lady <hi>Cicilie Lawar, Dowager: VVilli<g ref="char:EOLhyphen"/>am Maſcall</hi> a true honorer of her ho<g ref="char:EOLhyphen"/>nour, and of all that have relation unto that Ancient, Noble, and Religious Fa<g ref="char:EOLhyphen"/>mily, humbly Dedicateth, this his ſad Malancholy, Sober Sadneſs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:32837:4"/>
+            <pb n="1" facs="tcp:32837:4"/>
+            <head>Vpon the<note n="†" place="margin">Pro Christa vis tole<g ref="char:EOLhyphen"/>rata beat.</note> violent death of our late moſt gracious Soveraingne now made the moſt glorious Proto-Monarch Mar<g ref="char:EOLhyphen"/>tyr of
+<hi>England, Scotland</hi> and <hi>Ireland, Charls</hi> the firſt.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Ament; Lament, Lament that bloodie ſtroke</l>
+               <l>Which God permitted, when his anger ſhook</l>
+               <l>Three Kingdoms all at once, whereby their<note n="(a)" place="margin">who preferred the ſufferings of inno<g ref="char:EOLhyphen"/>cence pefore the ſpoiles and triumphs of violence, and is now amongſt the noble Army of Mar<g ref="char:EOLhyphen"/>tyr p<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iſing God with his celeſtial <hi>TE DEVM.</hi>
+                  </note> King</l>
+               <l>Deprived was of Life, that pretious thing</l>
+               <l>Hee now is free, but free among the dead</l>
+               <l>And three Realmes want their gracious Sovereign; head;</l>
+               <l>His earthly body in the earth doth reſt,</l>
+               <l>His ſoule with God, which makes him truly bleſt;</l>
+               <l>To change earth for heaven is a glorious thing,</l>
+               <l>Lo, thus King <hi>Charls</hi> is made a glorious King,</l>
+               <l>Renent, repent (O <hi>England</hi>) full of blood,</l>
+               <l>And make thine eyes an everflowing flood,</l>
+               <l>Of Penitentiall tears; for that horrid deed</l>
+               <l>Is flown to heaven with more then winged ſpeed,</l>
+               <l>And cryes for<note n="(b)" place="margin">
+                     <hi>Gens luet eſt ſeclus,</hi> Parliament and nati<g ref="char:EOLhyphen"/>ona<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſi<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> require, Parliament and Na<g ref="char:EOLhyphen"/>tional puniſhments.</note> vengance to thy moſt juſt God,</l>
+               <l>Who ſuffered hath a Covenant breaking rod</l>
+               <l>To ſcourge three nations thus, when they greatire</l>
+               <l>(Good Lord) is paſt, then caſt it in the fire.</l>
+               <l>For truth and peace pray all true Chriſtian men,</l>
+               <l>Till God the faithfull AMEN ſay amen:</l>
+               <pb n="2" facs="tcp:32837:5"/>
+               <l>Lord ſay amen when thou ſhalt ſee it fit,</l>
+               <l>And take away our ſins that hinder it;</l>
+               <l>That truth may flouriſh and our wars may ceaſe</l>
+               <l>Which thou (O God) command, thou Prince of peace,</l>
+               <l>And make us all true Hallelujahs ſing,</l>
+               <l>To thee our Lord and our celeſtiall King</l>
+               <closer>
+                  <date>
+                     <hi>Feburary:</hi> 14: 1648.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Taxes and Axes.</hi> Upon His Majeſties overthrow at <hi>Worceſter, Septemb.</hi> 3.
+1651.</head>
+               <l>TAxes and axes ſtill do make us grone</l>
+               <l>Yet we rejoyce when we ſhould rather mone,</l>
+               <l>To ſee three Kingdoms thus laid in the duſt,</l>
+               <l>God giving way to mans outragious luſt.</l>
+               <l>Remove this cup of blood, Lord ſend us peace,</l>
+               <l>And truth; and make true Charity increaſe</l>
+               <l>In Chriſtendom, Chiefly thoſe Kingdoms three</l>
+               <l>Which to one Chriſtian King belonging be;</l>
+               <l>Leaſt that they<note n="(c)" place="margin">Ieremiah. 25.27.</note> ſpue, and fall, and riſe no more,</l>
+               <l>From thoſe three Realms keep thou that judgement ſore;</l>
+               <l>And grant them truthand, peace once more at laſt.</l>
+               <l>Before they be quite deſolate and waſt,</l>
+               <l>For this let all true harted Chriſtians pray,</l>
+               <l>Till God the AMEN pleaſe Amen to ſay.</l>
+            </lg>
+            <lg>
+               <head>Thanksgiving is the beſt thanksgiving St <hi>Math.</hi> 3.8. <hi>Bring forth fruits meet for repentance.</hi>
+               </head>
+               <l>TO turn from ſin to God is true thanksgiving,</l>
+               <l>And not our<note n="(d)" place="margin">
+                     <hi>Iſaiah 1.15.</hi> Manus noſtra caedibus plenae.</note> bloody and ungratefull living.</l>
+               <l>Then turn us Lord, and let us ſin no more,</l>
+               <l>And us deliver from our bondage ſore:</l>
+               <l>For thine own glory and the Churches good,</l>
+               <l>Stop thou the current of all Chriſtian blood.</l>
+               <pb n="3" facs="tcp:32837:5"/>
+               <l>And us vouchſafe once more a King on earth.</l>
+               <l>And with him truth and peace<note n="(e)" place="margin">Ba pacem domine uſ<g ref="char:EOLhyphen"/>que quo domine usque q<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o?</note> and Godly mirth;</l>
+               <l>So ſhall we ſing and praiſe the evermore</l>
+               <l>Who for thy Church all bleſſings haſt in ſtore.</l>
+               <closer>
+                  <date>
+                     <hi>October.</hi> 24. 1651.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>A prayer made in the name and behalf of the<note n="(f)" place="margin">
+                     <hi>Marte et atae Satana</hi> By martial rights and by the Devil ſlights.</note> wo<g ref="char:EOLhyphen"/>fully torne divided, diſtreſſed and diſtracted nations, <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+               </head>
+               <l>MAke us, O God, make us to ſeek thy face,</l>
+               <l>By true repentance, and renewing grace;</l>
+               <l>And ſhew to us thy ſmiling face again.</l>
+               <l>As formerly thou did'ſt in Kingly reigne.</l>
+               <l>For many calme and quiet years together,</l>
+               <l>Which now (alas) are turned to ſtormy weather,</l>
+               <l>Whereby thy Church ſuſtained hath great loſs,</l>
+               <l>(Quakers cheat many with their<note n="(g)" place="margin">Tim. 1.4.1. Doctrines of Devils whom many ſhall believe in the laſt time. <hi>Demoinbus credent ſupremo tempore multi.</hi>
+                  </note> deviliſh droſs)</l>
+               <l>For ſchiſms, errors, yea blaſphemies increaſe,</l>
+               <l>Through want of our late diſcipline and peace</l>
+               <l>That government again then Lord us ſend</l>
+               <l>Which peacefull was, and did thy faith defend,</l>
+               <l>In thy good time give us this<note n="(h)" place="margin">Benefit multis à principe.</note> benefit,</l>
+               <l>And grant us all grace thereto ſubmit;</l>
+               <l>That truth and peace may flouriſh in our lands</l>
+               <l>Again, by thy beſt all-diſpoſing hands,</l>
+               <l>And make us all give the true thanks and praiſe</l>
+               <l>By holy living; all our future daies</l>
+            </lg>
+            <pb n="4" facs="tcp:32837:6"/>
+            <lg>
+               <head>King <hi>Mary.</hi> Mary, <hi>and</hi> Army <hi>make an Anagram, for in both words the letters are the ſame. OR Old</hi> Englands <hi>new</hi> German <hi>like</hi> Munſter
+<hi>Mon<g ref="char:EOLhyphen"/>ſter.</hi> A Monſter ſtrange in three Lands never ſeen, An<note n="*" place="margin">
+                     <hi>Manent lites, dum regannt milite<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>;</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> remain, while Soul<g ref="char:EOLhyphen"/>diers reign.</note> Army reigns without a King or Queen, <hi>
+                     <g ref="char:V">Ʋ</g>pon the thirtieth day of January.</hi>
+1648.</head>
+               <l>OLd <hi>Englands</hi> bloody <hi>January</hi> day,</l>
+               <l>When Church &amp; State to ſpoil, ſome took the way.</l>
+               <l>The thirtieth day of <hi>January</hi> laſt,</l>
+               <l>Into a Model new three Realms were caſt,</l>
+               <l>By a mad mode of modellizing things,</l>
+               <l>A King beheaded to make Subjects Kings,</l>
+               <l>
+                  <hi>Charls</hi> the Defender of the true Faith ſlain,</l>
+               <l>King <hi>Mary</hi> ruleth with its martial traine,</l>
+               <l>Queen <hi>Mary</hi> liv'd a <hi>Quinquennie</hi> of years,</l>
+               <l>Yet never ſlew ſo many Lords, and Peers,</l>
+               <l>As have been ſlain within theſe fifty days</l>
+               <l>By Armed State-Grandees, thereby to raiſe</l>
+               <l>A Reformation from that<note n="(a)" place="margin">They build up <hi>Sion</hi> with blood, Mich.
+3.10.</note> bloody<note n="(b)" place="margin">A moſt baſe baſis, and moſt unchriſtian foundation of a Chriſtian reformati<g ref="char:EOLhyphen"/>on, never to be for gotten, no, not after all the bloody actors in that Tragedy be dead, and rotten.</note> baſe,</l>
+               <l>A woful, ſad, and miſerable caſe;</l>
+               <l>If three Kingdoms muſt be reformed thus,</l>
+               <l>From ſuch Reformers, Lord, deliver us.</l>
+               <l>But now behold they I make us a free State,</l>
+               <l>Far from this freedom, full of ſtrife and hate;</l>
+               <l>Where theſe things are there's every evil work,</l>
+               <l>Under which freedom thraldome great doth<note n="(c)" place="margin">Latet anguis in herba.</note> lurk,</l>
+               <l>Lord keep us from ſuch States as bring confuſion,</l>
+               <l>And ſend us Monarchy in the concluſion:</l>
+               <l>Reſtore to us our Truth, and Peace again,</l>
+               <l>By cauſing <hi>Charles</hi> the Second for to reign,</l>
+               <pb n="5" facs="tcp:32837:6"/>
+               <l>In theſe three Kingdo as, where his Father late,</l>
+               <l>Did govern peaceably both Church and State,</l>
+               <l>Till civil War, and a moſt factious fact,</l>
+               <l>(Not worth the name of Houſe of Commons act)</l>
+               <l>Bereft him of his Soveraignty, and Power,</l>
+               <l>In a moſt diſmal, and moſt fatal hour,</l>
+               <l>Contrary to a moſt Religious Oath</l>
+               <l>Of preſerving him, and his, thus was troth</l>
+               <l>Violated by men of greateſt truſt,</l>
+               <l>And ſo his Kingly power was laid 'ith duſt,</l>
+               <l>(Notwithſtanding their good Kings great<note n="(d)" place="margin">Voted to be ſatis<g ref="char:EOLhyphen"/>factory.</note> conceſſions,</l>
+               <l>His foes went on ſtill with their great tranſgreſſions)</l>
+               <l>From whence aroſe a new light never ſeen</l>
+               <l>In Brittains ſphere, neither King nor Queen,</l>
+               <l>To govern us according to Gods Law,</l>
+               <l>But we are forſt of ſuch to ſtand in aw,</l>
+               <l>Who lately were our fellow Subjects ſworn,</l>
+               <l>To preſerve our King, and eke his free-born</l>
+               <l>People all, free from ſlavery, and thrall,</l>
+               <l>Yet now behold we are their bondſlaves alle</l>
+               <l>Make Truth, and Peace Lord, once more kiſs each other</l>
+               <l>That we may live in godly love together,</l>
+               <l>And for thoſe bleſſings great, give thee true praiſe,</l>
+               <l>By ſtriving thee to glorifie always,</l>
+               <l>By living alway in thy ways moſt juſt,</l>
+               <l>Till we ſhall all return unto our duſt;</l>
+               <l>And our ſouls praiſe thee for eternity,</l>
+               <l>In heaven that place of true felicity.</l>
+               <closer>
+                  <date>
+                     <hi>March,</hi> 14. 1648.</date>
+               </closer>
+            </lg>
+            <pb n="6" facs="tcp:32837:7"/>
+            <lg>
+               <head>
+                  <hi>Saint</hi> Hieroms <hi>judgement concerning Malignants.</hi> 
+                  <g ref="char:V">Ʋ</g>pon the ejecting of the ſequeſtred (though nei<g ref="char:EOLhyphen"/>ther ignorant, nor ſcandalons) but moſt Ortho<g ref="char:EOLhyphen"/>dox, conſcientious, and truly Religious Mini<g ref="char:EOLhyphen"/>ſters of Gods moſt ſacred word.</head>
+               <l>FRom the firſt of the firſt month fifty five,</l>
+               <l>Scarce any<note n="(e)" place="margin">For Doctrine, and diſcipline, according to the Canonical conſtitution of the late moſt famous Church of England.</note> Orthodox divines ſhall thrive;</l>
+               <l>For many of them (as<note n="(f)" place="margin">In ſore ſoli, non inſo<g ref="char:EOLhyphen"/>ro
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>li.</note> Malignants) ſhall</l>
+               <l>Looſe their<note n="(g)" place="margin">As good almoſt loſe their lively-heads, as their live<g ref="char:EOLhyphen"/>li-hoods.</note> livings Eccleſiaſtical,</l>
+               <l>They are protected well, liberty given</l>
+               <l>To make them poor, if not to beg are driven:</l>
+               <l>The ready way to caſt Religion down,</l>
+               <l>Is to remove the Miter, and the Crown,</l>
+               <l>Theſe two great evils in the<note n="(h)" place="margin">Ianuary, 10.44. &amp; the 30. of Ianu.
+1648.</note> ſame month done,</l>
+               <l>Needs then to ruine muſt three Nations run;</l>
+               <l>When they are<note n="(i)" place="margin">Moſes <hi>and</hi> Aron, ita ſubertere ſerit.</note> down which ſtood up in the gap,</l>
+               <l>Expect no welfare but ſome great<note n="(k)" place="margin">To Church and State.</note> miſhap.</l>
+               <l>God of his Mercy great protect us all,</l>
+               <l>And free us from inward, and outward thral;</l>
+               <l>Malignant, be content with what thou haſt,</l>
+               <l>Till ſuch<note n="(l)" place="margin">Saint <hi>Hierom</hi> (the only Presbyterian of his time) calls them Maligna<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s which Ma<g ref="char:EOLhyphen"/>ligne and Oppugne their King. See his tranſlation of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. Pſalm <hi>&amp; ab inſurgen<g ref="char:EOLhyphen"/>tibus in me Maligs an<g ref="char:EOLhyphen"/>tibus audiet auris m<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </note> Malignant ſtormes be over-paſt;</l>
+               <l>God giveth all, and he takes all away,</l>
+               <l>Then with his dealing be content I pray.</l>
+               <closer>
+                  <date>
+                     <hi>January,</hi> 14. 1655.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>A prayer for the enlargement of Gods Kingdom.</head>
+               <l>LOrd let thy gratious Kingdom come,</l>
+               <l>Throughout thy ſpecious Chriſtendome;</l>
+               <l>Let none of thoſe that bear the ſway</l>
+               <l>In any Land, give any way</l>
+               <l>To an unlawful toleration</l>
+               <l>Of<note n="(m)" place="margin">Nenes novae Dogma<g ref="char:EOLhyphen"/>ta ſallant.</note> falſe Worſhips, in any Nation</l>
+               <pb n="7" facs="tcp:32837:7"/>
+               <l>Chiefly, of the moſt wicked<note n="(n)" place="margin">Who contemn and condemne the two great Ordinances of God (ordained, and commanded in the fifth precept) Magi<g ref="char:EOLhyphen"/>ſtracy, and Miniſtry; without which their is no ſafety in this world, nor ſalvation in the world to come.</note> Quakers,</l>
+               <l>The chief <hi>Maſes,</hi> and <hi>Aaron</hi>-ſhakers:</l>
+               <l>Lord, hear thy Churches devout prayers,</l>
+               <l>And ſtop the mouths of all Gain-ſayers,</l>
+               <l>Grant Truth, and Peace, and Unity,</l>
+               <l>With perfect love, and charitie,</l>
+               <l>That we may greatly Glorifie,</l>
+               <l>Thy great name till we all ſhall dye,</l>
+               <l>And live with thee eternally,</l>
+               <l>In Heaven, where's true felicity.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Strena Parliaments, The Parliamens New-Years-gift. For the Glory of God, and three Nations good.</hi> Sober, and plain dealing Counſel to the great Counſel of the Land, the High Court of Parliament. A ſhort exhortation tending to a real<note n="*" place="margin">Reformatio ſeria, &amp; vera, nunquam ſera.</note> reformati<g ref="char:EOLhyphen"/>on in three ſinful Lands. <hi>Adjuvate Patriam. Take ye the Counſel that is now in hand, And for the welfare of your Country ſtand.</hi>
+               </head>
+               <l>ALL ye who in this Parliament do ſit,</l>
+               <l>Hearken to what each member doth befit;</l>
+               <l>Strive to heal the wounds given to Church and State,</l>
+               <l>By an inteſtine bloody War of late;</l>
+               <l>Give to them both what doth to them belong,</l>
+               <l>Help them to their right who have ſuffered wrong;</l>
+               <l>And head a right three late beheaded Land,</l>
+               <l>Which for help implore your hearts, heads, and hands.</l>
+               <pb n="8" facs="tcp:32837:8"/>
+               <l>Rebuild our <hi>Sions</hi> ſtrongeſt wals now down</l>
+               <l>The loyal Miter, and the Royal Crown:</l>
+               <l>Theſe things if done by your more Yeas, then Nays,</l>
+               <l>God ſhall have glory great, and you much praiſe,</l>
+               <l>Conſult, and act as Gods word doth require,</l>
+               <l>That Church and State, may have what they deſire,</l>
+               <l>Truth, and firm peace, for both which both do call;</l>
+               <l>So God be with you, and perſwade you all</l>
+               <l>To do both theſe, and all ſuch righteous things</l>
+               <l>As he allow's, who is the King of Kings</l>
+               <l>Heare then, and redreſs Church and State complaints.</l>
+               <l>And do Gods will, who is the Kings of Saints:</l>
+               <l>The<note n="*" place="margin">Rightly ſo called, becauſe it brought the blackneſs of death
+<hi>(<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oreſcoreſe<g ref="char:EOLhyphen"/>rens)</hi> upon their own moſt gratious <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd dread Sovereigne, without whoſe g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>tious aſpect, and ra<g ref="char:EOLhyphen"/>vour they could not have been a Parlia<g ref="char:EOLhyphen"/>ment.</note> black Parliament much increas'd our croſſes,</l>
+               <l>Let this prove white, and ſo repair our loſſes.</l>
+               <closer>
+                  <date>
+                     <hi>January,</hi> 1. 1654.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Three late famous Kingdoms depravated by being deprived of their Supreame Magiſtrate and Miniſter. <hi>Sublato Epiſcope tollitur Rex,</hi> ſaid King <hi>James.</hi>
+               </head>
+               <l>OH, what will now become of three poor Nations,</l>
+               <l>When King and Prieſt remov'd are from their ſtations</l>
+               <l>When ſome unjuſtly did behead them <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth,</l>
+               <l>And that againſt a moſt Religious Oath,</l>
+               <l>That's a<note n="*" place="margin">Not the good old cauſe, much leſs our good Gods cauſe, as it hath been too too long miſcalled.</note> wrong cauſe which wronged Church and State,</l>
+               <l>And brought King and Prieſt to that deadly fate,</l>
+               <l>When ſuch black deeds muſt needs make reformations,</l>
+               <l>And lay-mens Preachings. Goſpel propagations;</l>
+               <l>When out Church feſtivals are laid aſide,</l>
+               <l>As Chriſtmaſs, Eaſter, and our Waitſontide,</l>
+               <l>When we are led aſtray by Satans ſleights,</l>
+               <l>Which cheateth many with Mechannick lights,</l>
+               <l>Who without call to Preach, and to baptize,</l>
+               <l>Often do breach their ſelf conceits, and lies</l>
+               <pb n="9" facs="tcp:32837:8"/>
+               <l>The publique meetings ſome will not abide,</l>
+               <l>But to the private will both run, and ride,</l>
+               <l>When Sacraments want due adminiſtrations,</l>
+               <l>And blaſphemous ſects obtain tolerations,<note n="*" place="margin">
+                     <hi>Haec patiere Deus?</hi> will God ſuffer ſuch intollerable tolerati<g ref="char:EOLunhyphen"/>ons and abominati<g ref="char:EOLhyphen"/>ons,</note>
+               </l>
+               <l>When Martial men do cauſe our Parliaments</l>
+               <l>To be diſſolved; and their good intents</l>
+               <l>Of doing good to Church, and Common-weal,</l>
+               <l>Do nul, this makes more wounds not any heal:</l>
+               <l>When Sword-men meet to make ſuch meetings void,</l>
+               <l>T'is to be fear'd three Lands will be deſtroy'd:</l>
+               <l>For theſe ſins with their many aggravations</l>
+               <l>Do call, and cry for ruine to the Nations;</l>
+               <l>If we repent not but in ſin proceed,</l>
+               <l>(<note n="*" place="margin">The God of miſ-rule who now three Lands doth rule amiſs.</note>
+                  <hi>Mars predominant</hi>) we afreſh ſhall bleed.</l>
+               <l>Since topſie turvy all's turn'd upſide down,</l>
+               <l>In Court, City, Country, and Market Town,</l>
+               <l>What then remains but ſadly to lament,</l>
+               <l>Our ſinful lives and truly to repent.</l>
+               <l>The Lord our God, who is the God of order,</l>
+               <l>Order all things aright in every border,</l>
+               <l>Of Church and State throughout all Chriſtendom,</l>
+               <l>And ſo preſerve them for the time to come.</l>
+               <closer>
+                  <date>
+                     <hi>May.</hi> 4. 1659.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>The chief Fomentours of all our Martial blows and woes.</head>
+               <l>PRresbyterian and Independent bitings,</l>
+               <l>Have been the cauſe of many bloody fightings,</l>
+               <l>Whereby our late good Sovereign loſt his head,</l>
+               <l>And a Protectour ruleth in his ſtead;</l>
+               <l>Who came to reign not by the<note n="*" place="margin">Not by his right hand of Commiſſion, but by his left hand of permiſſion, <hi>Her<g ref="char:EOLhyphen"/>bert,</hi> our Church, <hi>Poet,</hi> in his title of providence.</note> grace of God,</l>
+               <l>But conquering ſword which is his angry rod:</l>
+               <l>Lord, burn this rod of thine in thy beſt ſeaſon,</l>
+               <l>And Crown his head who ought by<note n="*" place="margin">Divine and humane.</note> right, and reaſon</l>
+               <l>To ſway the Scepner in thoſe Kingdoms three,</l>
+               <l>Which to him only now pertaining be;</l>
+               <pb n="10" facs="tcp:32837:9"/>
+               <l>That truth, and peace may flouriſh in our Coaſts,</l>
+               <l>To thine own glory, who art Lord of Hoaſts;</l>
+               <l>And thy Churches good, for which good men pray</l>
+               <l>Till thou the AMEN, pleaſe Amen to ſay.</l>
+            </lg>
+            <lg>
+               <head>Englands Geneva, Scottiſh <hi>Innovation, Produced hath a</hi> Sottiſh<note n="(a)" place="margin">Exeſa Dco &amp; ſantiis</note> 
+                  <hi>Toleration.</hi>
+               </head>
+               <l>VVHen men may do what's right in their own eyes,</l>
+               <l>Creed, Gods command, Lords prayer they deſpiſe</l>
+               <l>
+                  <note n="(b)" place="margin">Contrary to Gods expreſs command Nahum. 1.15 O <hi>lu<g ref="char:EOLhyphen"/>dah</hi> keep thy ſolemn feaſts, and why not O<hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+                  </note>Church Feltivals by ſome are laid aſide,</l>
+               <l>As Chriſtmas, Eaſter and our Whitſuntide:</l>
+               <l>Theſe bleſſings great are counted now ſo ſmall,</l>
+               <l>They be not worth their Lip-ful annual:</l>
+               <l>If with their mouths men will not give God praiſe,</l>
+               <l>Their hearts to ſuch a work, how can they raiſe?</l>
+               <l>But tongue, and hear-thanks ſhould go both together,</l>
+               <l>Chiefly, in ſtormy, and tempeſtuous weather;</l>
+               <l>Our Church and State both being now therein,</l>
+               <l>Not to give God both is an hainous ſin.</l>
+               <l>No formes of Service now eſteemed be,</l>
+               <l>Yea, Gods own word we much deſpiſed ſee,</l>
+               <l>For when ſome Preach the Bible they paſs by,</l>
+               <l>And in the Pue let it unclaſped lye;</l>
+               <l>Not a Chapter read nor Pſalme for the day,</l>
+               <l>But to the Pulpit up in haſt away.</l>
+               <l>And there they ſpeak ſometimes above two hours,</l>
+               <l>Till tediouſneſs the fruit of both devours.</l>
+               <l>Lord, turne our Church into the late pure veins,</l>
+               <l>Orthodox; free us from th'erroneous braines</l>
+               <l>Of lay-pulpiters; that yet once againe,</l>
+               <l>Both truth and peace three poor lands may obtaine:</l>
+               <l>Theſe bleſſing grant us for thy dear ſonsſake,</l>
+               <l>Till thou thy whole Church ſhalt triumphant make.</l>
+            </lg>
+            <pb n="11" facs="tcp:32837:9"/>
+            <l>
+               <hi>The right prevailing way of<note n="(a)" place="margin">Which will indeed produce ſpiritual and corporal gain.</note> regaining a King</hi>
+            </l>
+            <l>
+               <hi>Truth, ſirme peace, and Godly diſcipline.</hi>
+            </l>
+            <p>St. <hi>Mark</hi> 11.24. Therefore I ſay unto you, what thing ſoever ye deſire when ye Pray, believe that ye receive them, and ye ſhall have them.</p>
+            <lg>
+               <head>Aske, and ye ſhall have What in faith ye crave.</head>
+               <l>USe then this means (all<note n="(b)" place="margin">All Royaliſts, and Loyalliſts, who long for their King, and liſt to be Loyal to him;</note> well affected men)</l>
+               <l>For King, Truth, Peace, and Biſhops once agen,</l>
+               <l>Petition God, (and Courts of Parliament</l>
+               <l>Which for the good or Church, and State are ſent)</l>
+               <l>That he in his time would have mercy on us,</l>
+               <l>And take away his ſmarting rod upon us:</l>
+               <l>As heretofore<note n="(c)" place="margin">Againſt the Bi<g ref="char:EOLhyphen"/>ſhops, the higheſt office of Godsſacred Miniſtry.</note> petition cauſ'd our croſſes,</l>
+               <l>So let them now help to reſtore our<note n="(d)" place="margin">Chiefly the Scepter and the Miter, thoſe two main Pillars of Church and State.</note> loſſes,</l>
+               <l>Repent, Pray, and Believe (as Chriſt hath ſaid)</l>
+               <l>And ye ſhall obtaine; be not then diſmaid,</l>
+               <l>Lord give Grace, Truth, Peace,<note n="(e)" place="margin">In Church and Common wealth</note> ſettlement again,</l>
+               <l>And bleſs us once more with a<note n="(f)" place="margin">And make him not only a citular, but alſo a tutelar King (next to thy ſelf who art King of Kings) unto his three Kingdoms. The Royal
+<hi>Stuarts</hi> bear to God true heart.</note> Stuarts reign.</l>
+               <closer>
+                  <date>
+                     <hi>May</hi> 1. 1649.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Schiſmaticall, and verball reformations Produce, and bring forth reall deſolations.</head>
+               <l>Oh, how three nations do to ruine run,</l>
+               <l>By errors broken and by Sects undon.</l>
+               <l>Behold the Presbyterian reformation,</l>
+               <l>In creaſing ſects, and Schiſmes throughout each nation;</l>
+               <l>Now ſeethe new lights in their<note n="(h)" place="margin">Tis called by ſome, Generation-work, ſure it is not Rege<g ref="char:EOLhyphen"/>neration work.</note> generation:</l>
+               <l>Acting all by their own new light, and faſhion;</l>
+               <l>Not rul'd nor guided by Gods holy word,</l>
+               <l>But all reforming with a conquering ſword:</l>
+               <pb n="12" facs="tcp:32837:10"/>
+               <l>The ſword, the ſword alone is, their cleare call,</l>
+               <l>Proceeding from our Armyes<note n="(i)" place="margin">Enſis Cromvelienſs. Non voc at enſit,
+<hi>Ye tit is better to be</hi> Cavalire, <hi>then a</hi> Cromwelliere, Exitus acts probes.</note> General</l>
+               <l>King, Queen, and Biſhops with their lands are gone,</l>
+               <l>Yet taxes, and exciſes ſtill go on;</l>
+               <l>Thoſe who to pay them all are yet moſt willing,</l>
+               <l>For every penny let them pay a ſhilling.</l>
+               <l>Theſe reformatours they want money too</l>
+               <l>And ſo they will till they us quite undoe;</l>
+               <l>They will not from oppreſſions ſet us free,</l>
+               <l>To worke this good effect no Act ſhall be,</l>
+               <l>Much leſs mean they for to breake every<note n="(k)" place="margin">
+                     <hi>Iſa.</hi> 58.6.</note> yoke,</l>
+               <l>Or to make good thoſe good laws which are broke,</l>
+               <l>But to make our burthens<note n="(l)" place="margin">Graviora ſcremus.</note> more heavy ſtill,</l>
+               <l>To bring to paſs theirown deſignes, and will</l>
+               <l>Then God (in his time) truth and peace us ſend,</l>
+               <l>With power, and grace our ill lives to amend:</l>
+               <l>That time he haſten for his dear Sons ſake,</l>
+               <l>And for thoſe bleſſings great us thankfull make.</l>
+               <closer>
+                  <date>
+                     <hi>June.</hi> 24. 1653.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Vpon the inauguration of <hi>Oliver Cromwell,</hi> Who from a <hi>Martial Anti-regal Hector</hi> Is now advanced to be<note n="(m)" place="margin">June. <hi>26. 1657.</hi> dic. Veneris.</note> 
+                  <hi>Lord Protector.</hi>
+               </head>
+               <l>AStrange new<note n="(n)" place="margin">No <hi>Royal Exchange</hi> a gracious King the true faiths defendor inſtead of a Tyrant Protect or</note> exchange, an unheard of thing,</l>
+               <l>His highneſs made much higher then a King;</l>
+               <l>Who never was Knight of the royal Garter,</l>
+               <l>Much leſs th'eldeſt ſon of a<note n="(o)" place="margin">O dies quando vectris Charls
+<hi>the firſt.</hi>
+                  </note> Regal-Martyr:</l>
+               <l>He was attended with keen<note n="(p)" place="margin">Signifying thereby the protecting of his mine une Common<g ref="char:EOLhyphen"/>wealth, and yet no wealth in its Com<g ref="char:EOLhyphen"/>mons.</note> ſwords out drawn,</l>
+               <l>(No godly Biſhop in his pure<note n="(q)" place="margin">Signifying puritie of Doctrine. and converſation (the old <hi>Vrim</hi> and <hi>Thummim</hi> with the conſervati<g ref="char:EOLhyphen"/>on of them both by the arme, and power of their godly diſci<g ref="char:EOLhyphen"/>pline which now alas is broken.</note> white Lawn)</l>
+               <l>Which preſageth war, is no ſigne of peace,</l>
+               <l>Much leſs of <hi>Britains</hi> unities increaſe</l>
+               <l>Made by King <hi>James;</hi> ſome will with might and maine,<note n="*" place="bottom">
+                     <hi>Whoſe peaceful motto's were theſe</hi> faciam eos in gentem unam, Quae Deus conjunxit nemo ſeparet et beati Pacifici, contra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iorum contraria eſt ratio meledicti bellifici; his jugantur Sectifici, praeſertins Quakerifici.</note>
+               </l>
+               <pb n="13" facs="tcp:32837:10"/>
+               <l>What they have got by force by<note n="(r)" place="margin">Vict armis.</note> force maintain.</l>
+               <l>O Lord protect us by thy ſaving grace,</l>
+               <l>And make us all timely to ſeek thy face,</l>
+               <l>By true ſubmiſſion to thy holy laws,</l>
+               <l>And ſhedding blood no longer call thy cauſe:</l>
+               <l>Of which my thoughts are we have had too much;</l>
+               <l>God grant we never more have any ſuch;</l>
+               <l>As touching that which is already ſpilt,</l>
+               <l>Forgive (good God) the ſin and eke the guilt.</l>
+               <closer>
+                  <date>
+                     <hi>Iuly.</hi> 6. 1657.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Vpon the County troops</head>
+               <l>LO, now each County hath 'its proper<note n="(ſ)" place="margin">Some put their truſt in Chariots and ſom in H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſes, mak<g ref="char:EOLhyphen"/>ing fleſh their arme. and ſo make their Gods their Gods.</note> Gad</l>
+               <l>The<note n="(t)" place="margin">Protectours of no vice (ſhop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) in theſe reforming times.</note> Vice-Protectours of three nations ſad,</l>
+               <l>Oppreſt with Taxes and exciſes great,</l>
+               <l>Under the colour of a zealous heat</l>
+               <l>Of perfecting a bleſſed reformation,</l>
+               <l>Whoſe product is a curſed toleration:</l>
+               <l>Thus are three Kingdoms made a moſt free ſtate</l>
+               <l>When every one is bound to pay his rate;</l>
+               <l>Yea thus three lands muſt maintain their own<note n="(u)" place="margin">The loſs of King, and Biſhops the late true grand-defend<g ref="char:EOLhyphen"/>ors, and Champions of our late truth and Peace.</note> harms,</l>
+               <l>By new devices, and by force of arms:</l>
+               <l>Thus are we brought, and kept ſtill in great thrall,</l>
+               <l>Till god ſhew mercy, and releaſe us all.</l>
+               <l>He makes us all of one mind, and agree,</l>
+               <l>In his true faith; and ſincere pietie,</l>
+               <l>He in his beſt time truth, and peace usſend,</l>
+               <l>With power of grace our ill lives to amend;</l>
+               <l>That time God haſten for his dear ſons ſake,</l>
+               <l>And for ſuch bleſſings great us thankfull make.</l>
+            </lg>
+            <pb n="14" facs="tcp:32837:11"/>
+            <lg>
+               <head>
+                  <hi>The grand troubles of our</hi> Engliſh, Scottiſh <hi>and</hi> Iriſh, <hi>Iſraels. Morſus ſacerdotales nunquam tales,</hi> The Prieſtly bitings never ſuch, As have of late prevail'd too much.</head>
+               <head type="sub">
+                  <hi>Gal. 5.15.</hi> If ye bite and devour one another, Take heed that ye be not conſumed one of another.</head>
+               <l>THe<note n="(a)" place="margin">Chiefly the diſobe<g ref="char:EOLhyphen"/>dient and gain ſaving Presbyterial Cle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, gainſaying the Epiſ<g ref="char:EOLhyphen"/>copal for then own gain.</note> Presbyterians have ſuch biters been,</l>
+               <l>That they have left us neither King nor Queen,</l>
+               <l>To rule three lands in godly quietneſs,</l>
+               <l>And them to ſave from ſuch as them oppreſs;</l>
+               <l>Nor godly learned Seer in his dioceſs,</l>
+               <l>To guard the Pulpits always more or leſs,</l>
+               <l>From ſuch erroneous and newfangled Teachers,</l>
+               <l>As were from time to time, contentious preachers,</l>
+               <l>Of Schiſmes, and War, which at the laſt beat down</l>
+               <l>The Loyal Myter, and the Royal Crown:</l>
+               <l>No Biſhop, no King, ſaid King <hi>James</hi> of old,</l>
+               <l>Too true we find it, Crown and Miter ſold;</l>
+               <l>Both which main Pillars are of Church and State,</l>
+               <l>And their great uſe their<note n="(b)" place="margin">a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>egis quam finendo</note> want hath ſhewd of late;</l>
+               <l>For ſince their ſad (pretending liberties)</l>
+               <l>Each man doth what ſeems right in his own eys,</l>
+               <l>Nor truth, nor peace eſtabliſhed in our gates,</l>
+               <l>
+                  <note n="(c)" place="margin">The God of <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> rule.</note>
+                  <hi>Mars</hi> ruling ſtill our now new ruling States.</l>
+               <l>Lord, though we bite, and ſtill devoure each other,</l>
+               <l>Yet lets not be conſum'd one by another;</l>
+               <l>But grant that truth and peace may ſetled be,</l>
+               <l>That we from Taxes, and keen Axes free,</l>
+               <l>Thy great and holy name may glorifie,</l>
+               <l>By giving thanks; until we all ſhall dye:</l>
+               <l>We all are cauſes of our moſt ſad breaches,</l>
+               <l>By our<note n="(d)" place="margin">By foll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wing too much the devices, and deſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>res of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur own hearts; by lea<g ref="char:EOLhyphen"/>ving undone thoſe things, which we ought to have done, and by doing thoſe things which we ought not to have done. Thus we Omitteemen, and Committee-men are the workers of our own ruine, <hi>perditio tua exte</hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> devices, and<note n="(e)" place="margin">Self intereſts neg<g ref="char:EOLhyphen"/>lecting the beſt inte<g ref="char:EOLhyphen"/>reſt, namely <hi>intereſt Omnium recte agere.</hi>
+                  </note> ſelf-ended reaches;</l>
+               <pb n="15" facs="tcp:32837:11"/>
+               <l>God then give true repentance to us all,</l>
+               <l>And us deliver from our<note n="(f)" place="margin">Spiritual and cor<g ref="char:EOLhyphen"/>potal.</note> armed thrall.</l>
+               <closer>
+                  <date>
+                     <hi>May</hi> 1. 1649.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Mala nova (Mater Eccleſia) mala novae. <hi>Ill news (O Mother Church) ill news.</hi>
+               </head>
+               <l>MOſt Orthodox<note n="(a)" place="margin">Amos 5. Archbi<g ref="char:EOLhyphen"/>ſhops, Biſhops, Peans, and Arc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>deacons, according to the Canonical or<g ref="char:EOLhyphen"/>dination of the late moſt fan ous Ortho<g ref="char:EOLhyphen"/>dox Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </note> Prieſts ſilenc'd: a ſad ſtory;</l>
+               <l>And<note n="(b)" place="margin">Who if they were well ſifted would not be found ſo well gif<g ref="char:EOLhyphen"/>ted.</note> gifted brethren they get all the glory</l>
+               <l>By their new-fangled teaching; which yet (alas)</l>
+               <l>Is often times as brittle as the glaſs</l>
+               <l>They babble by, which muſt be twice run out,</l>
+               <l>Before they finiſh what they are about.</l>
+               <l>Two hours ith Pulpit not one in the text,</l>
+               <l>At which long ſpeaking many men are vext.</l>
+               <l>Some call them Goſpel opportunities,</l>
+               <l>Yet oft times Belzebub that Prince of flies</l>
+               <l>Flies cloſely in and father of all lies,</l>
+               <l>By them doth broach errours, yea blaſphemies;</l>
+               <l>Yet theſe be ſuch great Saints as do not need,</l>
+               <l>Gods ten Commands, Lords prayer, or the Creed.</l>
+               <l>Apoſtolique, the three fundamentals,</l>
+               <l>And of Gods Temple the<note n="(c)" place="margin">Old <hi>Englands</hi> litur<g ref="char:EOLhyphen"/>gie and Rubrick is better then the new-brick, wherewith the new-lights build their new Churches.</note> ſupporting walls;</l>
+               <l>Without which three no Ghoſtly houſe is built,</l>
+               <l>But all their labour loſt, and vainly ſpilt,</l>
+               <l>Then all ye new lights take this light from me,</l>
+               <l>That ye out of the old way of Preaching be:</l>
+               <l>Then take St. <hi>Pauls</hi> a Maſter builders wiſe</l>
+               <l>Adviſe, firſt all your hearers Catechiſe</l>
+               <l>In thoſe three above ſaid Fundamentals,</l>
+               <l>Which (as is ſaid) be the ſupporting walls</l>
+               <l>Of each Ghoſtly Edifice; ſtrong and ſure,</l>
+               <l>Which will them conſtant make and long endure,</l>
+               <l>All the ſtrong blaſts of all falſe doctrine winds,</l>
+               <l>Which elſe will ſhake much their unſtable minds,</l>
+               <l>Thus are your meetings like to be in vaine,</l>
+               <l>Sith ye, and they receive much chaff, for grain;</l>
+               <pb n="16" facs="tcp:32837:12"/>
+               <l>Yea, by aſſembling you'l<note n="(a)" place="margin">2 <hi>Tim.</hi> 3.13.</note> wax worſe and worſe,</l>
+               <l>For, for a bleſſing ye receive a curſe.</l>
+            </lg>
+            <lg>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the ſifting of a Parliament Without the Common-wealths due free conſent.</head>
+               <l>STrange! dead is the head, yet ſome members live,</l>
+               <l>Which to their head a deadly blow did give,</l>
+               <l>Who ſit and act in Parliament again,</l>
+               <l>Though dead and buried be their Sovereign?</l>
+               <l>Yea, this they do without the Countries choice,</l>
+               <l>Wherein each freeman is to give his voice.</l>
+               <l>Since then they ſit with out a lawful call,</l>
+               <l>'Tis like three Nations will to ruine fall;</l>
+               <l>How then will they effect that reformation,</l>
+               <l>Which hath been promis'd<note n="(b)" place="margin">Both in the long, and often ſince the long Parlament. Heb. 12.12.</note> long unto the Nation?</l>
+               <l>How can that be a Reformation good?</l>
+               <l>Whoſe baſe baſe was Kingly and Prieſtly blood;</l>
+               <l>Then lets all repent, and make our<note n="(c)" place="margin">Epiſcopall and presbyteriall.</note> paths ſtraight,</l>
+               <l>Turn back toth' years forty four, forty eight,</l>
+               <l>Accept again of Scepter and of Miter,</l>
+               <l>And bid adien to Mars that bloody fighter.</l>
+               <l>That truth and peace may once more meet together,</l>
+               <l>And we at length be freed from ſtormy weather,</l>
+               <l>Which hath continued above twenty years,</l>
+               <l>To the great loſs of Peaſant and of Peers,</l>
+               <l>Good God, in thy good time have mercy on us,</l>
+               <l>And throw away thy rod now long upon us,</l>
+               <l>Give true repentance and amend us all,</l>
+               <l>Free us from ghoſtly and corporeal thrall.</l>
+               <closer>
+                  <date>
+                     <hi>June</hi> 21. 1659.</date>
+               </closer>
+            </lg>
+            <pb n="17" facs="tcp:32837:12"/>
+            <lg>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the diſſolution of the long, and<note n="(a)" place="margin">Too ſtrong for
+<hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> nd <hi>Aaron,</hi> the Seepter and the Mi<g ref="char:EOLhyphen"/>ter both broken by it. St ange Scepter; Scepter and Miter broken, ſad things to be ſpoken.</note> ſtrong Parliament, <hi>Fit via vi, vi &amp; armis. OR,</hi> Patience perforce.</head>
+               <l>IN <hi>April</hi> laſt a ſtormy Martial ſhower,</l>
+               <l>Stormed<note n="(b)" place="margin">Corvintus diſſolu<g ref="char:EOLhyphen"/>tus a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſolutus eſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er diſ<g ref="char:EOLhyphen"/>ſoluti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rem con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ertum.</note> aſſembled men of their great power,</l>
+               <l>They then had: (calling it a Parliament)</l>
+               <l>Of enacting laws, with Saint like intent</l>
+               <l>To reforme all things amiſs in each Nation;</l>
+               <l>Yet ſtill we ſee a dayly Pejoration,</l>
+               <l>Then mend us, Lord, and ſend us better days,</l>
+               <l>Grant truth, and peace, and thine be all the praiſe.</l>
+               <closer>
+                  <date>
+                     <hi>June</hi> 24. 1653.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Upon the riſing in <hi>Cheſhire</hi> againſt this preſent ſelf-Parliament called by themſelves; and is ſtiled by ſome the reſtitution, reſtauration,<note place="margin">Of Taxes Exciſes, and her inſupporta<g ref="char:EOLhyphen"/>ble payments.</note> and reſurrection of the long (long ſince dead in its head) black, and bloody one; which God forbid, that ſo much innocent, and precious blood, of Kingly, Prieſtly, Royal, and Loyal, ſhould a freſh be ſhed; no more of that for the Lords ſake.</head>
+               <l>SOme countrey men can now no longer bear</l>
+               <l>Their heavy<note n="(b)" place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im vi repo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lere, &amp; bellum bello debellare.</note> burthens; therefore do adhere,</l>
+               <l>To ſome, who<note n="(c)" place="margin">Dum bellum geritur pax queritur.</note> by force will do what they can,</l>
+               <l>(Out of their duty unto God, and man)</l>
+               <l>To eaſe them; and to reſtore truth, and<note n="(d)" place="margin">
+                     <hi>Pax quaeritur bello,</hi> ſaid <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur late Protect<g ref="char:EOLhyphen"/>or
+<hi>Oliver,</hi> of curſed memory, for his cur<g ref="char:EOLhyphen"/>ſed toleration, and for his wicked Se<g ref="char:EOLhyphen"/>queſtrations and de<g ref="char:EOLhyphen"/>privations of many Orthodox, learned and godly Miniſters of Gods moſt ſacred word.</note> peace</l>
+               <l>That love and Piety may yet increaſe:</l>
+               <l>God ſay Amen to this, ev'n ſo be it,</l>
+               <l>By what means (and when) he himſelf thinks fit.</l>
+            </lg>
+            <pb n="18" facs="tcp:32837:13"/>
+            <p>The <hi>Iſraels</hi> of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> being in<g ref="char:EOLhyphen"/>deed all three now the Lands of Gods juſtire, for their moſt bloody, National, Parliamental, unnatural, and unchri<g ref="char:EOLhyphen"/>ſtian ſins, are yet in Martial <hi>Booths,</hi> Tents, and Ta<g ref="char:EOLhyphen"/>bernacles, till it pleaſe God himſelf (who only is the Lord of Hoſts) to reſtore, and ſettle in them truth, and firm peace; which time he haſten (if it be his bleſſed will) through the merits of Jeſus Chriſt our Lord Amen, Amen.</p>
+            <p>
+               <hi>June</hi> 24. 1659.</p>
+            <lg>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the reviving of the long dead black Parli<g ref="char:EOLhyphen"/>ament.</head>
+               <l>BLack will be ſtill black, for this Parliament,</l>
+               <l>Sent for by Letters not legally ſent</l>
+               <l>Is not white, nor right without the right ſummons,</l>
+               <l>Of choice Countrey-men for an houſe of Commons;</l>
+               <l>Not in each country<note n="(a)" place="margin">Whereby three Na<g ref="char:EOLhyphen"/>tions may be guld.</note> call'd one, two, or three,</l>
+               <l>Btu all in<note n="(b)" place="margin">Without General or Major General.</note> general as they ought to be.</l>
+            </lg>
+            <p>All that were long ago lawfully called in the long Par<g ref="char:EOLhyphen"/>liament; as well the unjuſtly ſecluded Members as thoſe who were and are of the Anti-Epiſcopal and Anti-Regal faction; which made a fraction, firſt of the Miter and then of the Scepter.</p>
+            <p>A right good Parliament for the right good old cauſe, (which is really and not verbally Gods cauſe) is that, whoſe members are right, and upright; right in their opinions, or opinations, and upright in their conver<g ref="char:EOLhyphen"/>ſations.</p>
+            <p>
+               <hi>June</hi> 24. 1659.</p>
+            <pb n="19" facs="tcp:32837:13"/>
+            <lg>
+               <head>
+                  <hi>A Deaths head.</hi> OR <hi>A ſhort</hi> Memento mori <hi>for all ſorts of people.</hi> Death comes unawares, haſting like a Poſt, And will be ſeen before foreſeen of moſt.</head>
+               <head type="sub">Sumus fumus, ſumus cinis, Et cinis erit noſter finis.</head>
+               <l>HIgh, and low, old, and new Potentates,</l>
+               <l>Remember death knocks daly at your gates;</l>
+               <l>We all are duſt, end ſhall to duſt return,</l>
+               <l>Then let's<note n="(a)" place="margin">Vita repente fugit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Therefore let us re<g ref="char:EOLhyphen"/>pent,</hi> ſme mora in lac gratiae hora.</note> repent, leſt that in hell we burn</l>
+               <l>Lord, make us make our ways good, juſt, and ev'n,</l>
+               <l>That after death we may inherit heaven.</l>
+               <closer>
+                  <signed>WILLIAM MASCAL.</signed>
+               </closer>
+               <postscript>
+                  <l>
+                     <note n="(b)" place="margin">Ordained by Epiſ<g ref="char:EOLhyphen"/>copal authority, to be a publique Reader of Gods moſt ſacred word, of our godly Liturgy and holy Homilies of our Mother the Church of
+<hi>England</hi>
+                     </note>Who is a<note n="(c)" place="bottom">Such ill Lecturers (following <hi>Hugh Peters</hi> not St. <hi>Peters</hi> divining) together with Souldiers,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oblers, Tinkers, and ſeveral other mecha<g ref="char:EOLhyphen"/>nick, hetrodox publick and private Speakers, had almoſt caſt down all the orthodox, godly, learned Preachers and right dividers of the word of truth.</note> Lector at S. <hi>Marth'as</hi>-Hill</l>
+                  <l>No Lecterer who oft hath lectur'd<note n="(d)" place="bottom">By their much abuſing (in the late
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>eſtine wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>) two text of hole Scripture, <hi>Curſe ye Meroz, &amp;c. Iudges</hi> 5.23. <hi>Curſed be he that keepth back his ſword from blood,</hi> I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 8.10.</note> ill</l>
+               </postscript>
+            </lg>
+            <p>Thus endeth a metricall (though no poeticall) true nar<g ref="char:EOLhyphen"/>ration of things done in three late famous Kinghoms, whereby they are (for the preſent) undone, and that chief<g ref="char:EOLhyphen"/>ly by the ſuperfluous wealth of <hi>London,</hi> whoſe money and treaſure was the ſinews of an inteſtine War, which cauſed many to commit many new ſins: The good Lord our God forgive us all, and in his due time ſend us all true Grace, Truth and firm peace through the merits and mercies of Jeſus Chriſt, <hi>Amen, Amen, Amen.</hi>
+            </p>
+            <pb n="20" facs="tcp:32837:14"/>
+            <lg>
+               <head>A Prayer for true piety the beſt remedy of extreame melancholy.</head>
+               <l>DEliver me, O God, from Satans ginns,</l>
+               <l>And give me true repentance for my ſins,</l>
+               <l>With power to forſake them all, and grace</l>
+               <l>Of new obedience, and to ſeek thy face,</l>
+               <l>By doing always what thou wouldſt have done,</l>
+               <l>And by beleiving in thine only ſon,</l>
+               <l>By doing good, and by eſchewing evil,</l>
+               <l>By renouncing the world, the fleſh, and devil,</l>
+               <l>As I did long agoe in baptiſme<note n="(a)" place="margin">Votum baptiſmale Eccleſiae Angl canae.</note> vow;</l>
+               <l>O make me, O my God, O make me now</l>
+               <l>That Covenant to keep, and not allow</l>
+               <l>My ſelf in any boſome ſin, but bow</l>
+               <l>Unto thy will revealing in thy word,</l>
+               <l>Which ſhall great joy, and gladneſs me afford:</l>
+               <l>Lord, bleſs the means againſt my melancholy,</l>
+               <l>Which I ſhall uſe, and make me truely holy;</l>
+            </lg>
+            <lg>
+               <head>The woful effects of extreame melancholly, With a Prayer for the removal of them.</head>
+               <l>TOo much melancholly produceth folly,</l>
+               <l>And dead's mens heart to duties, chiefly holy;</l>
+               <l>It makes his ſpirits all ſo dull, and dead,</l>
+               <l>That he can neither ſpeak, pray, write, or read</l>
+               <l>To any thing he hath ſuch ſmall deſire,</l>
+               <l>That he can neither make his bed, or blow his fire:</l>
+               <l>It makes a man to fear, where is no fear,</l>
+               <l>And angry oft for nought; unfit to bear</l>
+               <l>Whatever God doth ſend with patience,</l>
+               <l>It moves him often times his ſoul from hence</l>
+               <l>To ſend, and rid himſelf of vital breath,</l>
+               <l>Before the time God calls for it by death:</l>
+               <pb n="21" facs="tcp:32837:14"/>
+               <l>Yea, it incites a man to deſper ation,</l>
+               <l>And hope which is the helmet of Salvation,</l>
+               <l>It ſtrives to take from off a ſinners head,</l>
+               <l>And him to leave amongſt the<note n="(b)" place="margin">Omne peceatum in ſe eſt mors animae, ſed de<g ref="char:EOLhyphen"/>ſperare eſt in infernum deſcendere.</note> Ghoſtly dead;</l>
+               <l>It caſts a man into the loweſt hell,</l>
+               <l>Amongſt the infernal ſpirits there do dwell,</l>
+               <l>Then heal thou me (ſoul Doctor) yet at length,</l>
+               <l>And in my weakneſs perfect thou thy ſtrength;</l>
+               <l>If it may pleaſe thee after nine years ſpace,</l>
+               <l>Send cheerfulneſs, but chiefly ſaving grace.</l>
+               <l>True faith by which all Satans fiery darts</l>
+               <l>Are quenched quite, Chriſt dwelling in our hearts,</l>
+               <l>Lord humble me for ſin by godly grief,</l>
+               <l>Then ſend the comforter with true relief,</l>
+               <l>To turn my ſadneſs into holy mirth,</l>
+               <l>And make me praiſe thee whil'ſt I live on earth;</l>
+               <l>In my great frailty ſhew thy ſaving power,</l>
+               <l>And ſave me from my ſins, my Saviour. <hi>Amen.</hi>
+               </l>
+               <closer>
+                  <date>
+                     <hi>Aug.</hi> 28. 1654.</date>
+               </closer>
+            </lg>
+            <lg>
+               <head>Non eſt mortale quod opto.</head>
+               <l>IT is no mortal thing I crave,</l>
+               <l>But grace, and goodneſs I would have,</l>
+               <l>A ſinners ſuit oppreſt with melancholly,</l>
+               <l>Beſeeching God to make him truely holy.</l>
+               <l>But one day well in four and twenty hours,</l>
+               <l>Sadneſs diſtracts my ſoul in all her powers,</l>
+               <l>Which doth unman me for the time, and fit,</l>
+               <l>My ſpirits deads, and makes me ſilent fit,</l>
+               <l>Not fit to ſpeak or to be ſpoken to;</l>
+               <l>Which ſad caſe may both body and ſoul undoe;</l>
+               <l>If God in mercy do not it prevent,</l>
+               <l>Give me, ſpace, and grace too to repent;</l>
+               <l>For which Ile pray, and never give him reſt,</l>
+               <l>Til he vouchſafe to grant me my requeſt.</l>
+            </lg>
+            <pb n="22" facs="tcp:32837:15"/>
+            <lg>
+               <head>A Prayer for true Repentance, New Obedience, and perſeverance.</head>
+               <l>GIve me, O God, what wilt thou give?</l>
+               <l>Give me repentance true</l>
+               <l>For all my ſins which thee do grieve,</l>
+               <l>Do thou them all<note n="(c)" place="margin">Mich. 7.19</note> ſubdue.</l>
+               <l>O Lord my God, ſhew forth thy might,</l>
+               <l>Make me a Saint with ſpeed,</l>
+               <l>Sincere and upright in thy ſight,</l>
+               <l>In thought in word, in deed.</l>
+               <l>And let me not fall back again,</l>
+               <l>To any ſinful crime;</l>
+               <l>But make me conſtant to remain,</l>
+               <l>For all my future time.</l>
+               <l>This grace, Lord, grant thou unto me,</l>
+               <l>For thy dear ſon his ſake,</l>
+               <l>And let me<note n="(d)" place="margin">Pſal. 119.80.</note> ſound, and faithful be</l>
+               <l>Till thou to heaven me take.</l>
+               <closer>
+                  <date>
+                     <hi>Auguſt</hi> 24. 1645.</date>
+               </closer>
+            </lg>
+            <p>Maſchals Maſchil.</p>
+            <p>IN a few plain verſes inſtructing himſelf, how (by Gods help) he may be <hi>corde, ore, &amp; opere,</hi> realty thankful for his undeſerved and unexpected wonderful deliverance from along continued (almoſt twelve years) moſt tedi<g ref="char:EOLhyphen"/>ous and irkſome diſeaſe of melancholy cauſing ext. eam heavineſs, dulneſs and deadneſs of his ſpirits, even unto a very<note n="(e)" place="margin">Cura leves loquuntur ingentesſtupent.</note> ſtupifying of them as a learned Phyſitian, Doctor <hi>Phypard</hi> told me when he felt my pulſe in the extremitie of one of my fits.</p>
+            <pb n="23" facs="tcp:32837:15" rendition="simple:additions"/>
+            <lg>
+               <head>Thanks-living is the beſt Thanksgiving.</head>
+               <l>SInce thou O God haſt ſet my mind in tune,</l>
+               <l>(On the eleventh day of this preſent <hi>June</hi>)</l>
+               <l>Diſtracted much by melancholly ſadneſs,</l>
+               <l>And turned haſt that ſad diſeaſe to gladneſs,</l>
+               <l>(Which me oppreſſed had almoſt twelve years,</l>
+               <l>As by the date of<note n="(f)" place="margin">
+                     <hi>Iuly</hi> 25. 1645.</note> forty five appears,</l>
+               <l>Upon which day it pleas'd God<note n="(g)" place="margin">Percutit, &amp; parcit cum libet ipſe Deus.</note> to begin,</l>
+               <l>To viſit me with that ſad ſcourge of ſin)</l>
+               <l>My ſoul praiſe returns, not my tongne alone,</l>
+               <l>But heart and hand, likewiſe conjoynd in one</l>
+               <l>Conſort, ſhall hencefort, magnifie thy name,</l>
+               <l>By ſtriving ſo to live without all blame;</l>
+               <l>That I may render thee true thanks, and praiſe,</l>
+               <l>So long as thou ſhalt here prolong my days:</l>
+               <l>That I may<note n="(h)" place="margin">
+                     <hi>1 Cor. 9, 24.</hi> Inſtadio curram, ment bra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, ſubiiciam.</note> run<note n="(i)" place="margin">For, non progredi. èſt regredi.</note> on in a godly race,</l>
+               <l>Aſſiſt me Lord, with thine enabling grace.</l>
+            </lg>
+            <p>God grant that I may ſo run (as St. <hi>Paul</hi> did) to ob<g ref="char:EOLhyphen"/>taine, and in veritie, and ſincerity ſay with him by the grace of God, <hi>I am what I am.</hi>
+            </p>
+            <p>
+               <hi>June</hi> 13. 1657.</p>
+            <lg>
+               <head>A joyful and thankeful commemoration of the greateſt mercy and bleſſing (that by the moſt gratious and miraculous providence of God) was ever beſtowed on three diſtreſſed Nations.</head>
+               <head type="sub">
+                  <g ref="char:V">Ʋ</g>pon the twenty eight day of <hi>June 1660.</hi> the day of publique thanksgiving, for his Majeſties happy return to his three Kingdoms.</head>
+               <l>HAd it not been for God, and General <hi>Monck,</hi>
+               </l>
+               <l>Our Church and State had in confuſion ſunck,</l>
+               <pb n="24" facs="tcp:32837:16" rendition="simple:additions"/>
+               <l>Sith God hath now reſtor'd them both again,</l>
+               <l>By cauſing <hi>Charls</hi> the ſecond King to reign,</l>
+               <l>To him be<note n="*" place="margin">Laus tibi magne De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Pſal. 115.1.</hi>
+                  </note> praiſe (not to us ſinners then)</l>
+               <l>Who to his Churches Prayers hath ſaid Amen,</l>
+               <l>Let us rejoyce and give him all the<note n="(k)" place="margin">Gratiarum actio, <hi>not</hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctio, <hi>which is</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> gratiar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m fictio.</note> thanks,</l>
+               <l>By living<note n="(l)" place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have lately obſer<g ref="char:EOLhyphen"/>ved two <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſten name to be given to two perſons (the practiſe of them indeed extends to all true Chriſtians,) <hi>Live well Chapman,</hi> and <hi>Praiſe-god Barbone:</hi> let them and all of us ſtrive to live well; and ſo truely to praiſe God, (not barbone-like, who diſliketh Kings, and Biſhops, and would make them all as bare as bare bones.) or his marvellous undeſerved bleſ<g ref="char:EOLhyphen"/>ſings, and mercyes lately vouchſafed to three ſinful Kingdoms, in the Reſtauration of his moſt gracious, and therefore moſt excellent Majeſty to them all which the God of all grace graunt us all grace to do, through the merits, and mercyes of Ieſus Chriſt our Lord and on<g ref="char:EOLhyphen"/>ly Saviour, and Redeemer, Amen, Amen.</note> well and ſhunning wicked prancks.</l>
+               <closer>
+                  <hi>Gloria ſumma Dei, Gloria ſumma Deo.</hi> All the Glory be to the all Glorious God.</closer>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32837:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
